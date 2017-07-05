@@ -1,0 +1,7 @@
+Main.class
+MessageProvider.class
+MessageRenderer.class
+HellowWorldMessageProvider.class
+MessageSupportFactory.class
+StandartOutMessageRenderer.class
+HelloWorldSpringDI.class
