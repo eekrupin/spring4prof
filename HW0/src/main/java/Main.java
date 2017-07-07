@@ -1,4 +1,3 @@
-package HW0.src.main.java;
 
 public class Main {
 

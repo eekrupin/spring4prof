@@ -1,4 +1,3 @@
-package HW0.src.main.java;
 
 import java.io.FileInputStream;
 import java.rmi.server.ExportException;
